@@ -1,6 +1,6 @@
-let name = 12;
+let name = " ";
 
-if (name || name == 0){
+if (name){
 
     console.log("Condition is the True");
 
